@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 282a866e254765044a2af6e0ba0f17e6, type: 3}
+  m_Name: RocketLauncherItem
+  m_EditorClassIdentifier: 
+  towerHolderPrefab: {fileID: 7438192812636798072, guid: 9bb7c5ee1ad9dc343b9105bd38963939,
+    type: 3}
+  ghostPrefab: {fileID: 3672415182470910798, guid: 43984a09a2b029647814923691c28eb5,
+    type: 3}
+  icon: {fileID: 21300000, guid: ca8ccfc169d9c7e4e90f7d279e6e6fb5, type: 3}
+  buttonBackground: {fileID: 21300000, guid: 8bc98ae27980d1c4893a0e93ec696119, type: 3}

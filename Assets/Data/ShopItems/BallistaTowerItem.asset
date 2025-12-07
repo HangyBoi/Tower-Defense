@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 282a866e254765044a2af6e0ba0f17e6, type: 3}
+  m_Name: BallistaTowerItem
+  m_EditorClassIdentifier: 
+  towerHolderPrefab: {fileID: 7438192812636798072, guid: e11b78e6444483144989b65f5158931d,
+    type: 3}
+  ghostPrefab: {fileID: 3672415182470910798, guid: 908a1234aae00e44c84ebaabe980e2f3,
+    type: 3}
+  icon: {fileID: 21300000, guid: d25783ebb7538ce43bc97aaae50b64e3, type: 3}
+  buttonBackground: {fileID: 21300000, guid: e923e988bbc0dd540bf21403dfd4a98f, type: 3}

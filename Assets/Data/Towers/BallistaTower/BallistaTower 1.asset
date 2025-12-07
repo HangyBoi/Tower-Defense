@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b04f6fb34ffb44f479abe434c1ca1371, type: 3}
+  m_Name: BallistaTower 1
+  m_EditorClassIdentifier: 
+  towerDescription: LVL 1 - ARROW
+  upgradeTowerDescription: 
+  towerDamage: 12
+  towerRange: 8
+  towerFireRate: 0.5
+  projectileEffectType: {fileID: 11400000, guid: fe3449f915fd66a46811ef003be48615,
+    type: 2}
+  projectileDebuffType: 1
+  projectileDebuffMultiplier: 0.5
+  projectileDebuffDuration: 1.5
+  AOERadius: 0
+  towerCost: 6
+  towerUpgradeCost: 12
+  towerSellCost: 3
+  towerIcon: {fileID: 0}

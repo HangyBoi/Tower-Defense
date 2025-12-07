@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 613e34680f00456418b351053870ac8e, type: 3}
+  m_Name: BasicFlyingEnemy
+  m_EditorClassIdentifier: 
+  enemyName: Flying Enemy
+  description: Enemy which flies above anything
+  enemyPrefab: {fileID: 5103742153805019246, guid: 400083e4aad26cb47b847a7e110fa1e7,
+    type: 3}
+  maxHealth: 12
+  moveSpeed: 3
+  deathReward: 2
+  movementType: 1
