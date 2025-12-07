@@ -25,6 +25,7 @@ The codebase relies on **5 core design patterns** to ensure modularity and decou
 
 <img alt="SoftwareArchitecture drawio" src="https://github.com/user-attachments/assets/b96ebcb2-1d3c-4b6a-ab2f-6875b6e5e25b" />
 
+*UML Diagram of the Whole Project's Architecture (open in a new tab to explore it more freely)*
 
 ### 1. The Observer Pattern (Decoupling Logic & UI)
 **Goal:** Remove all hard dependencies between the core game logic (Health, Money, Waves) and the User Interface.
