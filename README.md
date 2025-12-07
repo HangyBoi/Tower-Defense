@@ -1,4 +1,4 @@
-# 🛡️ Modular Tower Defense: A Software Architecture Showcase
+# ⛉ Modular Tower Defense: A Software Architecture Showcase
 
 > **A scalable, data-driven Tower Defense engine built to demonstrate SOLID principles and Design Patterns in Unity.**
 
@@ -11,7 +11,7 @@
 
 ---
 
-## 📖 Project Overview
+## ✎ᝰ. Project Overview
 
 This project was developed as a final assignment for a **Software Architecture** course. The primary goal was not just to create a functional game, but to engineer a **maintainable, extensible, and designer-friendly codebase** that adheres to strict requirements and SOLID principles.
 
@@ -19,7 +19,7 @@ The result is a "White Box" engine where almost every aspect of gameplay—Wave 
 
 ---
 
-## 🏗️ Architectural Pillars & Design Patterns
+## ⏣ Architectural Pillars & Design Patterns
 
 The codebase relies on **5 core design patterns** to ensure modularity and decoupling.
 
@@ -54,7 +54,7 @@ The codebase relies on **5 core design patterns** to ensure modularity and decou
 
 ---
 
-## 💾 Data-Driven Design (Scriptable Objects)
+## 🗁 Data-Driven Design (Scriptable Objects)
 
 A key requirement was "Editor configurability without coding." I achieved this using **ScriptableObjects** as the database for the game.
 
@@ -68,19 +68,19 @@ A key requirement was "Editor configurability without coding." I achieved this u
 
 ---
 
-## 🎮 Features Checklist
+## ≔ Features Checklist
 
-### ✅ Wave System
+### ꪜ Wave System
 * [x] Minimum 5 waves with increasing difficulty.
 * [x] Simultaneous vs. Sequential spawning support.
 * [x] Fully configurable via Inspector.
 
-### ✅ Tower System
+### ꪜ Tower System
 * [x] **Placement Validation:** Grid-based system with visual indicators (Green/Red ghost mesh).
 * [x] **Types:** Single Target, Area of Effect (AOE), Slow/Debuff.
 * [x] **Upgrades:** Visual model changes and stat boosts upon upgrading.
 
-### ✅ Enemy AI
+### ꪜ Enemy AI
 * [x] **Navigation:** NavMesh-based pathfinding following non-linear paths.
 * [x] **Feedback:** World-space health bars (Billboarding) and floating money text.
 
